@@ -41,8 +41,8 @@
 ## :link: Connect with me:
 
 <p align="center" style="background:blue">
- <a href="https://twitter.com/LahiruYapa2" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LahiruYapa2-05122A?style=flat&logo=twitter" alt="twitter"/>
+ <a href="https://www.linkedin.com/in/lahiru-yapa/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lahiruyapa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  <a href="https://twitter.com/RavinduDilhara3" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RavinduDilhara3-05122A?style=flat&logo=twitter" alt="twitter"/>
