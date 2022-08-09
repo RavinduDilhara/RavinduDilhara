@@ -42,7 +42,7 @@
 
 <p align="center" style="background:blue">
  <a href="https://www.linkedin.com/in/lahiru-yapa/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lahiruyapa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-ravindudilhara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  <a href="https://twitter.com/RavinduDilhara3" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RavinduDilhara3-05122A?style=flat&logo=twitter" alt="twitter"/>
@@ -60,6 +60,6 @@
 [html5]: https://en.wikipedia.org/wiki/HTML5
 [vscode]: https://code.visualstudio.com/
 [twitter]: https://twitter.com/LahiruYapa2
-[linkedin]: https://www.linkedin.com/in/ravindu-dilhara/
+[linkedin]: https://www.linkedin.com/in/ravindudilhara/
 [facebook]: https://www.facebook.com/ravindu.kariyawasam.581/
 
