@@ -42,7 +42,7 @@
 
 <p align="center" style="background:blue">
 <a href="https://www.linkedin.com/in/ravindu-dilhara/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ravindu-dilhara-33493a174-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-ravindu-dilhara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  <a href="https://twitter.com/RavinduDilhara3" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RavinduDilhara3-05122A?style=flat&logo=twitter" alt="twitter"/>
