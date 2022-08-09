@@ -1,5 +1,5 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Lahiru Dinelka Kumara Yapa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devlahirudinelka&color=blueviolet" alt="Profile views" /> </p>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I am Ravindu Dilhara Kariyawasam</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RavinduDilhara&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LahiruYapa2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LahiruYapa2)
